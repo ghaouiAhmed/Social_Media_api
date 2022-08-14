@@ -1,2 +1,2 @@
 # Social_Media_api
-Siciql Media  App api withlaravel
+Sicial Media  App api with laravel
